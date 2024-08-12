@@ -1,5 +1,4 @@
 - <h1 align="center">Hi 👋, I'm Yağmur</h1>
-<h3 align="center">A passionate Frontend Developer|React Developer|Backend Developer|React Native Developer|</h3>
 
 - 🔭 I’m currently working on **HTML,HTML5,CSS,CSS3**
 
