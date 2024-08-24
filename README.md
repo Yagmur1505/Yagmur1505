@@ -1,10 +1,12 @@
-- <h1 align="center">Hi 👋, I'm Yağmur</h1>
+- <h1 align="center">👋 Hi there! I'm Yağmur</h1>
 
-- 🔭 I’m currently working on **HTML,HTML5,CSS,CSS3**
+- 🔭 I’m currently working on **HTML,HTML5,CSS,CSS3,Bootstrap,SCSS**
 
-- 🌱 I’m currently learning **JS,React,Bootstrap,TS,Sass,Tailwind,Node,Redux,Firebase,Figma**
+- 🌱 I’m currently learning **JS,React,,TS,Sass,Tailwind,Node,Redux,Firebase,Figma** 
 
-- 📫 How to reach me **yagmur.subasi16@gmail.com**
+- 💡 Always eager to learn new things and improve my skills.
+
+- - 📫 How to reach me **yagmur.subasi16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
