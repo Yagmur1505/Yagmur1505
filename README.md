@@ -1,8 +1,8 @@
 - <h1 align="center">👋 Hi there! I'm Yağmur</h1>
 
-- 🔭 I’m currently working on **HTML,HTML5,CSS,CSS3,Bootstrap,SCSS**
+- 🔭 I’m currently working on **HTML,HTML5,CSS,CSS3,Bootstrap,SCSS,JS,React,TS,Sass,**
 
-- 🌱 I’m currently learning **JS,React,,TS,Sass,Tailwind,Node,Redux,Firebase,Figma** 
+- 🌱 I’m currently learning **Tailwind,Node,Redux,Firebase,Figma** 
 
 - 💡 Always eager to learn new things and improve my skills.
 
